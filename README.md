@@ -11,7 +11,7 @@
 - 🌱 I’m currently working as a GCP Data Engineer and exploring the Data engineer world
 - 💞️ I’m looking to collaborate on programming problem discussion 
 - 📫 you can reach me at:e-mail: neonitin6@gmail.com
-- here my my work and health and fitness work https://neonitin3.github.io/gymyaari/
+- here my health and fitness work https://neonitin3.github.io/gymyaari/
 
 <!---
 NEONITIN3/NEONITIN3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
